@@ -10,6 +10,7 @@
         "dependencies": {
           "GymManagement.Application": "1.0.0",
           "GymManagement.Contracts": "1.0.0",
+          "GymManagement.Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "9.0.0"
         },
         "runtime": {
@@ -63,6 +64,17 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "GymManagement.Infrastructure/1.0.0": {
+        "dependencies": {
+          "GymManagement.Application": "1.0.0"
+        },
+        "runtime": {
+          "GymManagement.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -104,6 +116,11 @@
       "sha512": ""
     },
     "GymManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GymManagement.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

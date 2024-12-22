@@ -15,3 +15,4 @@ C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Infrastructure\obj\Debug\net9.0\G
 C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Infrastructure\obj\Debug\net9.0\refint\GymManagement.Infrastructure.dll
 C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Infrastructure\obj\Debug\net9.0\GymManagement.Infrastructure.pdb
 C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Infrastructure\obj\Debug\net9.0\ref\GymManagement.Infrastructure.dll
+C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Infrastructure\obj\Debug\net9.0\GymManagement.Infrastructure.sourcelink.json

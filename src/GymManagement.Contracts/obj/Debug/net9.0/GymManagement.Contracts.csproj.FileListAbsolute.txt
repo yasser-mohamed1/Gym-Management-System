@@ -9,3 +9,4 @@ C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Contracts\obj\Debug\net9.0\GymMan
 C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Contracts\obj\Debug\net9.0\refint\GymManagement.Contracts.dll
 C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Contracts\obj\Debug\net9.0\GymManagement.Contracts.pdb
 C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Contracts\obj\Debug\net9.0\ref\GymManagement.Contracts.dll
+C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Contracts\obj\Debug\net9.0\GymManagement.Contracts.sourcelink.json

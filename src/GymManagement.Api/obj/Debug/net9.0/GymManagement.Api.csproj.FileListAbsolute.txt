@@ -37,3 +37,6 @@ C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Api\obj\Debug\net9.0\GymManagemen
 C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Api\obj\Debug\net9.0\ref\GymManagement.Api.dll
 C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Api\bin\Debug\net9.0\GymManagement.Contracts.dll
 C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Api\bin\Debug\net9.0\GymManagement.Contracts.pdb
+C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Api\bin\Debug\net9.0\GymManagement.Infrastructure.dll
+C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Api\bin\Debug\net9.0\GymManagement.Infrastructure.pdb
+C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Api\obj\Debug\net9.0\GymManagement.Api.sourcelink.json
