@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x1qf075CkgQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ssofian\\Desktop\\Gym\\src\\GymManagement.Infrastructure\\GymManagement.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ssofian\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

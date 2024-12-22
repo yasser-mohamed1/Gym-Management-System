@@ -1,0 +1,11 @@
+C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Contracts\bin\Debug\net9.0\GymManagement.Contracts.deps.json
+C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Contracts\bin\Debug\net9.0\GymManagement.Contracts.dll
+C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Contracts\bin\Debug\net9.0\GymManagement.Contracts.pdb
+C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Contracts\obj\Debug\net9.0\GymManagement.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Contracts\obj\Debug\net9.0\GymManagement.Contracts.AssemblyInfoInputs.cache
+C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Contracts\obj\Debug\net9.0\GymManagement.Contracts.AssemblyInfo.cs
+C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Contracts\obj\Debug\net9.0\GymManagement.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Contracts\obj\Debug\net9.0\GymManagement.Contracts.dll
+C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Contracts\obj\Debug\net9.0\refint\GymManagement.Contracts.dll
+C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Contracts\obj\Debug\net9.0\GymManagement.Contracts.pdb
+C:\Users\Ssofian\Desktop\Gym\src\GymManagement.Contracts\obj\Debug\net9.0\ref\GymManagement.Contracts.dll
