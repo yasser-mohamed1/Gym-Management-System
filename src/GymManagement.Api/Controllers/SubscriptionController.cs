@@ -22,10 +22,11 @@ public class SubscriptionController : ControllerBase
             request.SubscriptionType.ToString(),
             request.AdminId);
             
-        var subscriptionId = await _mediator.Send(command);
+        var createSubscriptionResult = await _mediator.Send(command);
 
-        var response = new SubscriptionResponse(subscriptionId, request.SubscriptionType);
-
-        return Ok(response);
+        return createSubscriptionResult.Match<IActionResult>(
+            onSuccess: value => Ok(new SubscriptionResponse(value, request.SubscriptionType)),
+            onFailure: error => BadRequest(new { Message = "Error", Error = error })
+        );
     }
 }

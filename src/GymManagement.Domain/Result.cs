@@ -22,4 +22,12 @@ public class Result<T>
     {
         return new Result<T>(false, default!, error);
     }
+
+    /// <summary>
+    /// Matches the Result state and executes the corresponding function.
+    /// </summary>
+    public TResult Match<TResult>(Func<T, TResult> onSuccess, Func<string, TResult> onFailure)
+    {
+        return IsSuccess ? onSuccess(Value) : onFailure(Error);
+    }
 }
