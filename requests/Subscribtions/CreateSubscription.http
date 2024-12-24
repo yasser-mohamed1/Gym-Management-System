@@ -1,6 +1,6 @@
 @host=http://localhost:9172
 
-@adminId=e2f7cbd4-3f2a-4a39-913d-9d1e78f0b84a
+@adminId=e2f7cbd6-3f2a-4a39-913d-9d1e78f0b84a
 
 Post {{host}}/Subscription
 Content-Type: application/json
